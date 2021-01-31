@@ -5,6 +5,20 @@
 - Variational AutoEncoder
 - Simple GAN
 
-# Implementation and Results
+## Implementation and Results
 
-## Variational AutoEncoder
+### Variational AutoEncoder
+
+[Notebook](vae/Variational-Autoencoder.ipynb)
+
+<p align="center">
+    <img src="assets/vae.png" width="640"\>
+</p>
+
+### Simple GAN
+
+[Notebook](gan/Generative-Adversarial-Network.ipynb)
+
+<p align="center">
+    <img src="assets/gan.png" width="450"\>
+</p>
