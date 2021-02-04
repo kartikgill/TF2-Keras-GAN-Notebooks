@@ -48,14 +48,14 @@
 
 ### Mode Collapse Failure in GANs
 
-[Notebook](gan-failures/Mode\ Collapse.ipynb)
+[Notebook](gan-failures/Mode-Collapse.ipynb)
 <p align="center">
     <img src="assets/mode-collapse.png" width="500"\>
 </p>
 
 ### Convergence Failure in GANs
 
-[Notebook](gan-failures/Convergence\ Failure.ipynb)
+[Notebook](gan-failures/Convergence-Failure.ipynb)
 <p align="center">
     <img src="assets/convergence-failure.png" width="500"\>
 </p>
