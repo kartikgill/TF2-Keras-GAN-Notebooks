@@ -45,3 +45,17 @@
 <p align="center">
     <img src="assets/dcgan-faces.png" width="500"\>
 </p>
+
+### Mode Collapse Failure in GANs
+
+[Notebook](gan-failures/Mode Collapse.ipynb)
+<p align="center">
+    <img src="assets/mode-collapse.png" width="500"\>
+</p>
+
+### Convergence Failure in GANs
+
+[Notebook](gan-failures/Convergence Failure.ipynb)
+<p align="center">
+    <img src="assets/convergence-failure.png" width="500"\>
+</p>
