@@ -24,7 +24,7 @@
 </p>
 
 
-### DCGAN
+### DCGAN Fashion MNIST
 
 [Notebook](dcgan/DC-GAN-Fashion-MNIST.ipynb)
 
@@ -32,10 +32,14 @@
     <img src="assets/dcgan-fmnist.png" width="500"\>
 </p>
 
+### DCGAN-Anime Faces
+
 [Notebook](dcgan/DC-GAN-Anime.ipynb)
 <p align="center">
     <img src="assets/dcgan-anime.png" width="500"\>
 </p>
+
+### DCGAN Celebrity Faces
 
 [Notebook](dcgan/DC-GAN-Celeb.ipynb)
 <p align="center">
