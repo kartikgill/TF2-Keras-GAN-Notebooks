@@ -59,3 +59,35 @@
 <p align="center">
     <img src="assets/convergence-failure.png" width="500"\>
 </p>
+
+
+### CGAN
+
+[Notebook](cgan/Conditional-GAN-(CGAN).ipynb)
+<p align="center">
+    <img src="assets/cgan.png" width="500"\>
+</p>
+
+
+### Semi-Supervised GAN or SGAN
+
+[Notebook](sgan/Semi-Supervised-GAN-(SGAN).ipynb)
+<p align="center">
+    <img src="assets/sgan.png" width="500"\>
+</p>
+
+
+### InfoGAN
+
+[Notebook](infogan/Info-GAN.ipynb)
+<p align="center">
+    <img src="assets/infogan.png" width="500"\>
+</p>
+
+
+### Auxiliary Classifier or ACGAN
+
+[Notebook](acgan/Auxiliary-Classifier-GAN-(ACGAN).ipynb)
+<p align="center">
+    <img src="assets/acgan.png" width="500"\>
+</p>
