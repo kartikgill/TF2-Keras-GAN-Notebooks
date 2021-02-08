@@ -2,12 +2,21 @@
 
 ## Topics
 
-- Variational AutoEncoder
-- Simple GAN
+* [Variational AutoEncoder](#Variational-AutoEncoder)
+* [Simple GAN](#Simple-GAN)
+* [DCGAN for Fashion MNIST](#DCGAN-Fashion-MNIST)
+* [DCGAN for Anime Faces](#DCGAN-Anime-Faces)
+* [DCGAN for Celebrity Faces](#DCGAN-Celebrity-Faces)
+* [Mode Collapse Example](#Mode-Collapse-Failure-in-GANs)
+* [Convergence Failure Example](#Convergence-Failure-in-GANs)
+* [Conditional GAN (CGAN)](#CGAN)
+* [Semi Supervised GAN (SGAN)](#Semi-Supervised-GAN-or-SGAN)
+* [InfoGAN](#InfoGAN)
+* [Auxiliary Classifier GAN](#Auxiliary-Classifier-GAN-or-ACGAN)
 
 ## Implementation and Results
 
-### Variational AutoEncoder
+### Variational-AutoEncoder
 
 [Notebook](vae/Variational-Autoencoder.ipynb)
 
@@ -15,7 +24,7 @@
     <img src="assets/vae.png" width="500"\>
 </p>
 
-### Simple GAN
+### Simple-GAN
 
 [Notebook](gan/Generative-Adversarial-Network.ipynb)
 
@@ -24,7 +33,7 @@
 </p>
 
 
-### DCGAN Fashion MNIST
+### DCGAN-Fashion-MNIST
 
 [Notebook](dcgan/DC-GAN-Fashion-MNIST.ipynb)
 
@@ -32,28 +41,28 @@
     <img src="assets/dcgan-fmnist.png" width="500"\>
 </p>
 
-### DCGAN-Anime Faces
+### DCGAN-Anime-Faces
 
 [Notebook](dcgan/DC-GAN-Anime.ipynb)
 <p align="center">
     <img src="assets/dcgan-anime.png" width="500"\>
 </p>
 
-### DCGAN Celebrity Faces
+### DCGAN-Celebrity-Faces
 
 [Notebook](dcgan/DC-GAN-Celeb.ipynb)
 <p align="center">
     <img src="assets/dcgan-faces.png" width="500"\>
 </p>
 
-### Mode Collapse Failure in GANs
+### Mode-Collapse-Failure-in-GANs
 
 [Notebook](gan-failures/Mode-Collapse.ipynb)
 <p align="center">
     <img src="assets/mode-collapse.png" width="500"\>
 </p>
 
-### Convergence Failure in GANs
+### Convergence-Failure-in-GANs
 
 [Notebook](gan-failures/Convergence-Failure.ipynb)
 <p align="center">
@@ -69,7 +78,7 @@
 </p>
 
 
-### Semi-Supervised GAN or SGAN
+### Semi-Supervised-GAN-or-SGAN
 
 [Notebook](sgan/Semi-Supervised-GAN-(SGAN).ipynb)
 <p align="center">
@@ -85,7 +94,7 @@
 </p>
 
 
-### Auxiliary Classifier or ACGAN
+### Auxiliary-Classifier-GAN-or-ACGAN
 
 [Notebook](acgan/Auxiliary-Classifier-GAN-(ACGAN).ipynb)
 <p align="center">
