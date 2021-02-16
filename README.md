@@ -100,3 +100,31 @@
 <p align="center">
     <img src="assets/acgan.png" width="500"\>
 </p>
+
+### Pixel-CNN
+
+[Notebook](pixel-cnn/Pixel-CNN-for-MNIST.ipynb)
+<p align="center">
+    <img src="assets/pixel-cnn.png" width="500"\>
+</p>
+
+### Wasserstein-GAN-or-WGAN
+
+[Notebook](wgan/W-GAN.ipynb)
+<p align="center">
+    <img src="assets/wgan.png" width="500"\>
+</p>
+
+### Least-Squares-GAN-or-LSGAN
+
+[Notebook](lsgan/LS-GAN.ipynb)
+<p align="center">
+    <img src="assets/lsgan.png" width="500"\>
+</p>
+
+### Improved-WGAN-or-WGAN-GP
+
+[Notebook](wgan-gp/W-GAN-GP-TF-v1.14.ipynb)
+<p align="center">
+    <img src="assets/wgan-gp.png" width="500"\>
+</p>
