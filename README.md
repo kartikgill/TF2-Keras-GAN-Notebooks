@@ -13,6 +13,10 @@
 * [Semi Supervised GAN (SGAN)](#Semi-Supervised-GAN-or-SGAN)
 * [InfoGAN](#InfoGAN)
 * [Auxiliary Classifier GAN](#Auxiliary-Classifier-GAN-or-ACGAN)
+* [Pixel CNN](#Pixel-CNN)
+* [Wasserstein GAN (WGAN)](#Wasserstein-GAN-or-WGAN)
+* [Least Squares GAN (LSGAN)](#Least-Squares-GAN-or-LSGAN)
+* [Improved WGAN (WGAN-GP)](#Improved-WGAN-or-WGAN-GP)
 
 ## Implementation and Results
 
