@@ -1,4 +1,5 @@
 # TF2-Keras-GAN-Notebooks
+Generative Adversarial Networks (GANs) implemented using TF2/Keras in Juypter Notebooks with Colab Links.
 
 ## Topics
 
