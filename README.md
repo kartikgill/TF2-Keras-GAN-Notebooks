@@ -7,6 +7,10 @@
 * [DCGAN for Fashion MNIST](#DCGAN-Fashion-MNIST)
 * [DCGAN for Anime Faces](#DCGAN-Anime-Faces)
 * [DCGAN for Celebrity Faces](#DCGAN-Celebrity-Faces)
+* [Pix2Pix for Maps](#pix2pix-Maps)
+* [Pix2Pix for BnW-to-Color](#pix2pix-BnW-to-Color)
+* [Cycle-GAN for Apples-to-Oranges](#cycle-gan-Apples-to-Oranges)
+* [Cycle-GAN for Horses-to-Zebras](#cycle-gan-Horses-to-Zebras)
 * [Mode Collapse Example](#Mode-Collapse-Failure-in-GANs)
 * [Convergence Failure Example](#Convergence-Failure-in-GANs)
 * [Conditional GAN (CGAN)](#CGAN)
@@ -57,6 +61,34 @@
 [Notebook](dcgan/DC-GAN-Celeb.ipynb)
 <p align="center">
     <img src="assets/dcgan-faces.png" width="500"\>
+</p>
+
+### pix2pix-BnW-to-Color
+
+[Notebook](pix2pix/pix2pix-GAN-BnW-to-Color.ipynb)
+<p align="center">
+    <img src="assets/pix2pix-BnW-to-Color.png" width="500"\>
+</p>
+
+### pix2pix-Maps
+
+[Notebook](pix2pix/pix2pix-GAN-maps.ipynb)
+<p align="center">
+    <img src="assets/pix2pix-maps.png" width="500"\>
+</p>
+
+### cycle-gan-Apples-to-Oranges
+
+[Notebook](cycle-gan/Cycle-GAN-Apples-Oranges.ipynb)
+<p align="center">
+    <img src="assets/cycle-gan-apples-oranges.png" width="500"\>
+</p>
+
+### cycle-gan-Horses-to-Zebras
+
+[Notebook](cycle-gan/Cycle-GAN-Horses-Zebras.ipynb)
+<p align="center">
+    <img src="assets/cycle-gan-horses-zebras.png" width="500"\>
 </p>
 
 ### Mode-Collapse-Failure-in-GANs
