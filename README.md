@@ -12,6 +12,9 @@ Generative Adversarial Networks (GANs) implemented using TF2/Keras in Juypter No
 * [Pix2Pix for BnW-to-Color](#pix2pix-BnW-to-Color)
 * [Cycle-GAN for Apples-to-Oranges](#cycle-gan-Apples-to-Oranges)
 * [Cycle-GAN for Horses-to-Zebras](#cycle-gan-Horses-to-Zebras)
+* [Context Encoder](#context-encoder)
+* [Disco-GAN Male vs Female](#disco-gan-male-to-female)
+* [Super Resolution or SR-GAN](#super-resolution-srgan)
 * [Mode Collapse Example](#Mode-Collapse-Failure-in-GANs)
 * [Convergence Failure Example](#Convergence-Failure-in-GANs)
 * [Conditional GAN (CGAN)](#CGAN)
@@ -90,6 +93,27 @@ Generative Adversarial Networks (GANs) implemented using TF2/Keras in Juypter No
 [Notebook](cycle-gan/Cycle-GAN-Horses-Zebras.ipynb)
 <p align="center">
     <img src="assets/cycle-gan-horses-zebras.png" width="500"\>
+</p>
+
+### context-encoder
+
+[Notebook](context-encoder/Context-Encoder-TF2.ipynb)
+<p align="center">
+    <img src="assets/context-encoder.png" width="500"\>
+</p>
+
+### disco-gan-male-to-female
+
+[Notebook](disco-gan/DiscoGAN-Male-to-Female.ipynb)
+<p align="center">
+    <img src="assets/disco-gan-male-female.png" width="500"\>
+</p>
+
+### super-resolution-srgan
+
+[Notebook](srgan/Super-Resolution-GAN-Human_Faces.ipynb)
+<p align="center">
+    <img src="assets/super-resolution-gan.png" width="500"\>
 </p>
 
 ### Mode-Collapse-Failure-in-GANs
